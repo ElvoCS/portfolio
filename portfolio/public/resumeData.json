@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Elvinas Paskauskas",
+    "occupation": "Software Developer",
+
+    "description": "At the moment I am studying at Maynooth University where I am in my final year of a Bsc Computer Science & Software Engineering degree.",
+    "image": "profilepic.jpg",
+    "bio": "I spent three years working with Java during my time at Maynooth University. I enjoy web development using React as my frontend and firebase for any backend stuff. I am have industry experience working with SQL databases.",
+    "contactmessage": "You can contact me at...",
+    "email": "ElvinasPaskauskas@gmail.com",
+    "address": {
+      "city": "Dublin"
+    },
+    "website": "http://www.ElvinasPaskauskas.com",
+    "resumedownload": "https://app.luminpdf.com/viewer/5f155f0aeeaa83001a99ff71",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/elvinas-paskauskas-695748180/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/elvo.ie/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ElvoCS",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "https://join.skype.com/invite/EtWc0nyefy3I",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some off the techonologies I am comfortable with...",
+    "education": [
+      {
+        "school": "National University of Ireland Maynooth",
+        "degree": "BSc Computer Science & Software Engineering",
+        "graduated": "Pending...",
+        "description": "Past demonstrator for CS172 Computer Systems ll I was helping students with logic assignments. Currently going into fourth year I will be deciding what to specialize in."
+      },
+      {
+        "school": "Lucan Community College",
+        "degree": "Leaving Certificate",
+        "graduated": "May 2016",
+        "description": "I completed my Leaving Certificate at this school. Nominated for student of the year in third year. Achieved a higher level B1 in higher level engineering."
+      }
+    ],
+    "work": [
+      {
+        "company": "Precia Molen Ireland",
+        "title": "Software Engineering Intern",
+        "years": "Febrauary 2020 - Present",
+        "description": "I test, built software. I am helping with the design and implementation of a commercial software project. Working with firebird SQL. Designing reports."
+      },
+      {
+        "company": "Penthouse Menswear",
+        "title": "Sales person",
+        "years": "Christmas Period 2017, June 2018 - September 2019",
+        "description": "Originally came to work as Christmas staff, was called back for a permanent postion. Started off as stock and moved onto sales. Helped with any techonology issues in the shop."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "React.js",
+        "level": "65%"
+      },
+      {
+        "name": "node.js",
+        "level": "40%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "firebase",
+        "level": "70%"
+      },
+      {
+        "name": "PostgresSQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Notmazon",
+        "category": "An amazon inspired online store",
+        "image": "notmazon.png",
+        "url": "https://github.com/ElvoCS/notmazon"
+      },
+      {
+        "title": "Notflix",
+        "category": "A netflix inspired app uses tmdb API to pull top rated movies and uses react-youtube to search for their trailers and display them.",
+        "image": "notflix.png",
+        "url": "https://github.com/ElvoCS/notflix"
+      },
+      {
+        "title": "Notssenger",
+        "category": "A facebook messenger inspired messaging site",
+        "image": "NOTSSENGER Logo.png",
+        "url": "https://github.com/ElvoCS/notssenger"
+      },
+      {
+        "title": "Hiraga Tutor",
+        "category": "My very first web development project which I done in my second year of university",
+        "image": "hiragana.png",
+        "url": "https://github.com/ElvoCS/Hiragana-Tutor"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
